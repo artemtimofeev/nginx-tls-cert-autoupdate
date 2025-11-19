@@ -2,7 +2,7 @@ version: '3.9'
 
 services:
   angie:
-    image: angiehq/angie:latest
+    image: angie/angie:latest
     container_name: angie
     restart: always
     ports:
