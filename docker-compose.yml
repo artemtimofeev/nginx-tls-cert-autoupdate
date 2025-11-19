@@ -2,7 +2,7 @@ version: '3.9'
 
 services:
   angie:
-    image: docker.angie.software/angie:acme
+    image: docker.angie.software/angie:latest
     container_name: angie
     restart: always
     ports:
